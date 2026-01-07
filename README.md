@@ -60,8 +60,4 @@ I care deeply about **clean architecture**, **maintainable code**, and **real-wo
 
 ⭐ *Feel free to explore my repositories and follow my journey.*
 
----
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakuphan0&show_icons=true&theme=dark&hide_border=true" />
-</div>
