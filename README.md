@@ -117,16 +117,6 @@ I care deeply about **clean architecture**, **maintainable code**, and **real-wo
 - SQL-related work including schema design and procedures
 - Clean README files and meaningful commit history
 
----
-
-## 📫 Get in Touch
-- 💼 LinkedIn: [https://linkedin.com/in/yakuphanince ](https://tr.linkedin.com/in/yakuphanince) 
-- 📸 Instagram: https://instagram.com/yakuphanince  
-
----
-
-⭐ *Feel free to explore my repositories and follow my journey.*
- 
 
 ---
 
